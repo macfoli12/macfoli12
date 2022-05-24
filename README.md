@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @macfoli12
 - 👀 I’m interested in Web development[Programming] 
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on opensource.
+- 💞️ I’m looking to collaborate on Opensource Projects.
 - 📫 How to reach me https://github.com/macfoli12/macfoli12.git 
 
 <!---
